@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f202f2c9-cac2-4332-af85-892cc785985a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WOQ9d3aigu9UUt9h0QhJUJX0yj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Others\Code\Java\lanjingb_fine_clean" />
+      <recent name="D:\Others\Code\Java\lanjingb_fine_clean\case\images" />
+      <recent name="D:\Others\Code\Java\lanjingb_fine_clean\case\js" />
+      <recent name="D:\Others\Code\Java\lanjingb_fine_clean\case\css" />
+      <recent name="D:\Others\Code\Java\lanjingb_fine_clean\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Others\Code\Java\lanjingb_fine_clean\img" />
+      <recent name="D:\Others\Code\Java\lanjingb_fine_clean" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f202f2c9-cac2-4332-af85-892cc785985a" name="Default Changelist" comment="" />
+      <created>1579018014597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579018014597</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="248" key="FileChooserDialogImpl" timestamp="1579766985674">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="638" y="248" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1579766985674" />
+    <state x="851" y="331" key="FileChooserDialogImpl/0.0.2048.1152@0.0.2048.1152" timestamp="1579669952626" />
+    <state x="360" y="99" key="SettingsEditor" timestamp="1579669957394">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="270" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1579483591171" />
+    <state x="360" y="99" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1579669957394" />
+    <state x="593" y="371" width="715" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1579669956329">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="445" y="278" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" timestamp="1579483589134" />
+    <state x="593" y="371" width="715" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1579669956329" />
+  </component>
+</project>

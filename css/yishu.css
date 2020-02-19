@@ -1,0 +1,679 @@
+
+
+p{font-size: 18px;
+	font-family: "微软雅黑";
+    opacity: 0.9;}
+.wenzi{text-align: left;
+	    opacity: 0.9;}
+.navbar-brand img   {max-width: 82%;
+    vertical-align: middle;}
+.czr-header{
+	/*border: 1px solid green;*/
+	/*background: rgba(0, 0, 0, 0.8);*/
+	background: white;
+	    height: 88px;
+}
+
+.foots{background: #f9f9f9;
+    padding: 15px;
+    border-top: 1px solid #e8e8e8;
+    color: #999999;
+    font-weight: bold;
+    text-align: center;}
+
+#header{
+		z-index: 99999;}
+	
+.tou1{border-bottom: 1px solid #a4733a;
+    height: auto;
+    width: 72%;}
+
+ @media (max-width: 1980px){
+	#header{
+		padding: 20px 0;}
+} 
+
+@media (max-width: 800px){
+	#header{
+		padding: 0px 0;}
+}  
+
+  
+@media (max-width: 500px){
+	.xian{
+	width: 15%;
+    height: 3px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    background: #fab31b;
+    margin-left: 40px;}
+    .czr-header {
+    background: #fff;
+    height: 60px;}
+    #header{
+		padding: 0px 0px;}
+}	
+
+@media (max-width: 1020px){
+	.jian {
+		height:1803px;
+}
+}	
+
+@media (max-width: 500px){
+	.tou1 {
+		width: 90%;
+}
+}	
+
+@media (max-width: 752px){
+	.jian {
+		height:990px;
+}
+}
+@media (min-width: 501px){
+	/*.textp1{width: 100%;}*/
+	/*.textp2{width: 100%;}*/ 
+}
+
+@media (max-width: 500px){
+	.jian {
+		height: auto;}
+	.textp1{width: 72%;}
+}
+
+@media (max-width: 500px){
+	.textp2{width: 72%;}
+}
+
+@media (max-width: 380px){
+	.jian {
+		height: auto;
+}
+}
+
+@media (max-width: 500px){
+	.vdio{
+		height: 110px;
+		margin-top: 192px;
+}
+}
+
+.textp1{color: white!important;
+	/*width: 60%;*/margin: 0px auto;
+	text-align: center;
+	font-family: "微软雅黑";opacity: 0.6;}
+/*.tou1 p:nth-child(2){
+}*/
+.textp2{
+	color:white!important;
+	/*width: 60%;*/margin: 20px auto;
+	text-align: center;
+	font-family: "微软雅黑";opacity: 0.6;
+}
+.texth2{margin-top: 334px;
+	color: #f2ad17;}
+.tuiguang{
+	color: #f2ad17;}
+
+
+
+/*ACE艺术行业的撮合*/
+.yshy{background: #eaf4ff;
+	/*border: 1px solid mistyrose;*/
+	height: 540px;
+	background: url("bacg2.png") no-repeat center center;
+    background-size: 100% 100%;}
+.xian{width: 15%;
+	height: 3px;
+	margin-top: 30px;
+    margin-bottom: 15px;
+	background: #fab31b;}
+.yshy_title{text-align: center;}
+
+.yshy_title h2{
+	padding: 100px 30px 10px 30px;
+    display: block;
+    color: #f4ae1a;
+}
+
+.row div{/*border: 1px solid gray;*/
+	height: autopx;}
+.item-inner{
+	    margin: 0 20px 20px 0;
+	    text-align: center;
+	    background: #fff;
+	    padding: 10px;	}
+.portfolio-item{margin-top: 30px;}
+.item-inner h5,span{font-size: 18px;}
+.item-inner h5{font-weight: bold;
+	padding-top: 27px;}
+.item-inner span{font-family: "微软雅黑";
+    opacity: 0.6;}
+.bo{width: 72%;
+	margin: 0px auto;}
+
+
+
+@media (max-width: 1180px){
+	.yshy{
+		height: 760px;
+}
+}
+
+@media (max-width: 896px){
+	.yshy{
+		height: auto;
+}
+}
+
+@media (max-width: 500px){
+	.yshy{
+		height: auto;
+}
+}
+
+
+/*生态*/
+/*.shengtai{background: #ffffff;*/
+	/*border: 1px solid darkred;*/
+	/*height: 640px;}*/
+.zhandui{height: 1100px;
+	background: #000000;}
+.yshy_title{text-align: center;}
+
+.shengtaih2 h2{
+	padding: 80px 30px 10px 30px;
+    display: block;
+}
+.shengtaitu{width: 52%;
+    margin: 50px auto;}
+.shengtaitu img{width: 100%}
+.row div{/*border: 1px solid gray;*/
+	height: autopx;}
+.shengtaip2{text-align: center;}
+.hezi{width: 80%;
+	margin: 0px auto;}
+.shengtaitext{
+	margin-top: 75px;
+}
+
+
+@media (max-width: 1024px){
+	.shengtai{
+		height: auto;
+}
+}
+
+table{width: 100%;}
+.biao1{width:70%;
+    margin: 50px auto;}
+.biaoge{/*border: 1px solid gray;*/height: 360px;}
+.zong{height: 37px;    background: #f4ae1a;}
+.bfb{color: #f4ae1a;;}
+.biaoge td{border: 1px solid white;
+    text-align: center;
+    height: 30px;
+    }    
+.td2{width: 75%;
+	color: white;
+    opacity: 0.6;}
+.hei1{width: 80%;
+	margin: 0px auto;}
+/*APP商城*/
+.shangcheng{background: #000000;
+	/*border: 1px solid green;*/
+}
+.shangchengk{width: 72%;
+	margin: 0px auto;}
+@media (max-width: 1024px){
+	.shangcheng{
+		height: auto;
+}
+}
+
+@media (max-width: 1020px){
+	.shengtaitu{
+		width:50% ;
+}
+}
+
+@media (max-width: 720px){
+	.shengtaitu{
+		width:70% ;
+}
+}
+
+@media (max-width: 500px){
+	.shengtaitu{
+		width:90% ;
+}
+}
+
+@media (min-width: 991px){
+	.ge3{
+		width: 40%;
+}
+}
+
+@media (max-width: 990px){
+	.ge3{
+		width: 70%;
+}
+}
+
+
+@media (max-width: 990px){
+	.zhandui{
+		height: auto;
+}
+}
+
+/*白皮书*/
+.baipishu{background: #3c3f44;
+	/*border: 1px solid blue;*/
+	height: 260px;}
+.baikuang{width: 106px;
+    height: 42px;
+    /*border: 1px solid gainsboro;*/
+    color: black;
+    background: white;
+    margin-top: 90px;
+    text-align: center;
+    line-height: 41px;
+    font-size: 18px;
+    margin-left: 20%;
+    border: none;}
+.baih2{color: white;}
+.shu{color: black;}
+
+@media (max-width: 500px){
+	.baipishu{
+		height: auto;
+}
+}
+
+/*艺术品银行分叉*/
+.shengtai{background: #ffffff;
+	/*border: 1px solid darkred;*/
+	height: 640px;}
+.yshy_title{text-align: center;}
+
+.shengtaih2 h2{
+	padding: 80px 30px 10px 30px;
+    display: block;
+}
+.shengtaitu{width: 52%;
+    margin: 50px auto;}
+.shengtaitu img{width: 100%}
+.row div{/*border: 1px solid gray;*/
+	height: autopx;}
+.shengtaip2{text-align: center;}
+.hezi{width: 80%;
+	margin: 0px auto;}
+.shengtaitext{
+	margin-top: 75px;
+}
+
+
+@media (max-width: 1024px){
+	.shengtai{
+		height: auto;
+}
+}
+
+/*鉴真评估体系*/
+.jzpgtx{background: #000000;
+	/*border: 3px solid green;*/
+	height: 600px;}
+.pingutuk{margin-top: 20px;}
+.yshy_title{text-align: center;}
+.pgt1{margin-top: 12px;}
+.pgkuang{height: 300px;}
+
+
+@media (max-width: 1480px){
+	.jzpgtx{
+		height: auto;
+}
+}
+
+@media (max-width:500px){
+	.jzpgtx{
+		height: 700px;
+}
+}
+
+@media (min-width: 1481px){
+	.jzpgtx{
+		height: 620px;
+}
+}
+
+@media (max-width: 1605px){
+	.pgkuang{
+		height: 350px;
+}
+}
+
+@media (max-width: 1190px){
+	.pgkuang{
+		height: 450px;
+}
+}
+
+@media (max-width: 850px){
+	.pgkuang{
+		height: 520px;
+}
+}
+
+@media (max-width: 770px){
+	.pgkuang{
+		height: auto;
+}
+}
+
+/*推广链接*/
+.jiaoyi{background: #000000;
+	/*border: 3px solid red;*/
+}
+
+@media (max-width: 1150px){
+	.jiaoyi{
+		height: auto;
+}
+}
+@media (max-width: 845px){
+	.jiaoyi{
+		height: 2800px;
+}
+}
+@media (max-width: 500px){
+	.jiaoyi{
+		height: auto;
+}
+}
+
+@media (max-width: 500px){
+	.dio{
+		margin-top: 10px;
+}
+}
+
+/*艺术收藏品生态基金会组织架构*/
+.zzjg{height: 700px;
+	 /*border: 5px solid deepskyblue;*/
+	 /*margin-top: 50px;*/
+	 background: url("Allow.png") no-repeat center center;
+    background-size: 100% 100%;
+	 }
+
+@media (max-width: 990px){
+	.zzjg{
+		height: 1100px;
+}
+}
+
+@media (max-width: 500px){
+	.zzjg{
+		height: 900px;
+}
+}
+
+
+/*团队*/
+/*.jzpgtx{
+	height: 620px;}*/
+.td{height: 1342px;
+	background: #f5f6f8;
+	/*border: 3px solid green;*/
+	background: #000000;}
+.tuandui img{width: 100%;}
+
+.yshy_title{text-align: center;}
+.pgt1{margin-top: 12px;}
+.pgkuang2{height: 448px;
+	/*border: 1px solid red;*/}
+
+
+@media (max-width: 1480px){
+	.jzpgtx{
+		height: 800px;
+}
+}
+
+@media (min-width: 1481px){
+	.jzpgtx{
+		height: 620px;
+}
+}
+
+@media (max-width: 1605px){
+	.pgkuang{
+		height: 350px;
+}
+}
+
+@media (max-width: 1190px){
+	.pgkuang{
+		height: 450px;
+}
+}
+
+@media (max-width: 850px){
+	.pgkuang{
+		height: 520px;
+}
+}
+
+@media (max-width: 770px){
+	.pgkuang{
+		height: auto;
+}
+}
+
+@media (min-width: 960px){
+	.box2{
+		width: 72%;
+    margin: 0px auto;
+}
+}
+
+@media (max-width: 500px){
+	.td{
+		height: auto;
+}
+}
+
+@media (max-width: 500px){
+	.pgkuang2{
+		height:auto;
+}
+}
+@media (max-width: 900px){
+	.pgkuang2{
+		height:auto;
+}
+}
+
+@media (max-width: 1300px){
+	.pgkuang2{
+		height:auto;
+}
+}
+
+@media (max-width: 1300px){
+	.td{
+		height:1500px;
+}
+}
+@media (max-width: 900px){
+	.td{
+		height:auto;
+}
+}
+@media (max-width: 500px){
+	.td{
+		height:auto;
+}
+}
+
+
+/*通证*/
+.kongtouye{background: #000000;
+	/*border: 1px solid darkred;*/
+	height: 640px;}
+.yshy_title{text-align: center;}
+
+.shengtaih2 h2{
+	padding: 80px 30px 10px 30px;
+    display: block;
+}
+.shengtaitu{width: 52%;
+    margin: 50px auto;}
+.shengtaitu img{width: 100%}
+.row div{/*border: 1px solid gray;*/
+	height: autopx;}
+.shengtaip2{text-align: center;}
+.hezi{width: 80%;
+	margin: 0px auto;}
+.shengtaitext{
+	margin-top: 75px;
+}
+
+
+@media (max-width: 1024px){
+	.shengtai{
+		height: auto;
+}
+}
+
+/*发展规划*/
+.fazhan{background: #eaf4ff;
+	/*border: 1px solid green;*/
+	height: 860px;}
+.yshy_title{text-align: center;}
+.bei{background: #eaf4ff;}
+.shengtaih2 h2{
+	padding: 80px 30px 10px 30px;
+    display: block;
+}
+.shengtaitu{width: 52%;
+    margin: 50px auto;}
+.shengtaitu img{width: 100%}
+.row div{/*border: 1px solid gray;*/
+	height: autopx;}
+.shengtaip2{text-align: center;}
+.hezi{width: 80%;
+	margin: 0px auto;}
+.shengtaitext{
+	margin-top: 75px;
+}
+
+
+
+@media (max-width: 1370px){
+	.fazhan{
+		height: auto;
+}
+}
+@media (max-width: 770px){
+	.fazhan{
+		height: auto;
+}
+}
+@media (max-width: 500px){
+	.fazhan{
+		height: auto;
+}
+}
+
+
+/*配套方案*/
+.peitao{background: #ffffff;
+	/*border: 1px solid darkred;*/
+	height: 640px;}
+	
+@media (max-width: 1376px){
+	.peitao{
+		height: auto;
+}
+}
+.fang{width: 60%;
+    margin: 0px auto;}
+.yshy_title{text-align: center;}
+
+.shengtaih2 h2{
+	padding: 80px 30px 10px 30px;
+    display: block;
+}
+.shengtaitu{width: 52%;
+    margin: 50px auto;}
+.shengtaitu img{width: 100%}
+.row div{/*border: 1px solid gray;*/
+	height: autopx;}
+.shengtaip2{text-align: center;
+	    opacity: 0.7;
+    color: white;}
+.hezi{width: 72%;
+	margin: 0px auto;}
+.shengtaitext{
+	margin-top: 75px;
+}
+
+/*页尾*/
+.footer{background: #0e0e0e;
+	/*border: 1px solid red;*/
+	height: 480px;}
+.weiye{
+    margin: 50px auto;
+    width: 20%;
+    text-align: center;
+    color: gray;}
+@media (max-width: 1376px){
+	.weiye{
+		width: 35%;
+}
+}
+@media (max-width: 500px){
+	.weiye{
+	 width: 60%;
+    height: 50px;
+}
+}
+
+@media (max-width: 1980px){
+	.footer{
+		height: 740px;
+}
+}
+@media (max-width: 1800px){
+	.footer{
+		height: 640px;
+}
+}
+@media (max-width: 1500px){
+	.footer{
+		height: 640px;
+}
+}
+
+@media (max-width: 500px){
+	.footer{
+		height: 700px;
+}
+}
+
+@media (max-width: 500px){
+	.quanyi2{
+		margin-top: 26px;
+}
+}
+
+@media (max-width: 500px){
+.quanyi2-1-tu img {
+    width: 18%;
+    margin-top: 0px;
+}
+}
