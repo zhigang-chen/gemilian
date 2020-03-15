@@ -90,6 +90,9 @@
   
   .item{width: 100%;}
   .item:hover{cursor: pointer;}
+#banr0{background:url("../img/index/banner0.jpg") no-repeat center center ;
+   	height: 626px;
+    background-size: cover;}
   #banr1{background:url("../img/index/banner.png") no-repeat center center ;
   /*height: 626px;*/
  	height: 626px;
