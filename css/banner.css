@@ -90,7 +90,7 @@
   
   .item{width: 100%;}
   .item:hover{cursor: pointer;}
-#banr0{background:url("../img/index/banner0.jpg") no-repeat center center ;
+  #banr0{background:url("../img/index/banner0.png") no-repeat center center ;
    	height: 626px;
     background-size: cover;}
   #banr1{background:url("../img/index/banner.png") no-repeat center center ;
@@ -108,6 +108,9 @@
   background-size: cover;}
   
   @media (max-width: 1700px){
+  #banr0{background:url("../img/index/banner0.png") no-repeat center center ;
+     	height: 536px;
+      background-size: cover;}
   	#banr1{background:url("../img/index/banner.png") no-repeat center center ;
   height: 536px;
   background-size: cover;}
@@ -125,13 +128,16 @@
   }
   
   @media (max-width: 1550px){
-  	#banr1,#banr2,#banr3,#banr4{height: 500px;}
+  	#banr0,#banr1,#banr2,#banr3,#banr4{height: 500px;}
   	.slider {
     height: 500px;}
   
   }
   
   @media (max-width: 1400px){
+  #banr0{background:url("../img/index/banner0.png") no-repeat center center ;
+       	height: 326px;
+        background-size: cover;}
   	#banr1{background:url("../img/index/banner.png") no-repeat center center ;
   height: 326px;
   background-size: cover;}
@@ -149,27 +155,30 @@
   }
   
   @media (max-width: 900px){
-  	#banr1,#banr2,#banr3,#banr4{height: 286px;}
+  	#barn0,#banr1,#banr2,#banr3,#banr4{height: 286px;}
   	.slider {
     height: 286px;}
   
   }
   
   @media (max-width: 780px){
-  	#banr1,#banr2,#banr3,#banr4{height: 250px;}
+  	#barn0,#banr1,#banr2,#banr3,#banr4{height: 250px;}
   	.slider {
     height: 250px;}
   
   }
   
   @media (max-width: 630px){
-  	#banr1,#banr2,#banr3,#banr4{height: 200px;}
+  	#barn0,#banr1,#banr2,#banr3,#banr4{height: 200px;}
   	.slider {
     height: 200px;}
   
   }
   
   @media (max-width: 500px){
+  #banr0{background:url("../img/index/banner0.png") no-repeat center center ;
+       	height: 140px;
+        background-size: cover;}
   	#banr1{background:url("../img/index/banner.png") no-repeat center center ;
   height: 140px;
   background-size: cover;}
@@ -211,7 +220,7 @@
   
 
 @media (max-width: 350px){
-	#banr1,#banr2,#banr3,#banr4{height: 110px;}
+	#barn0,#banr1,#banr2,#banr3,#banr4{height: 110px;}
   	.slider {
     height: 110px;}
 }
